@@ -1,12 +1,11 @@
 import React from "react";
 import "./App.css";
-import CounterThree from "./Components/CounterThree";
-
+import Counter from "./Components/Counter";
 
 function App() {
   return (
     <div className="App">
-      <CounterThree />
+    <Counter />
     </div>
   );
 }
